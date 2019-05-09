@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OpenWebTextCorpus
-email: openwebtext@gmail.com
+email: openwebtext (at) gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Home of the Open WebText Corpus.
 baseurl: "/OpenWebTextCorpus" # the subpath of your site, e.g. /blog
