@@ -46,6 +46,6 @@ Clearly identify the copyrighted work claimed to be infringed.
 
 Clearly identify the material that is claimed to be infringing and information reasonably sufficient to allow us to locate the material.
 
-And contact us at the following email address: openwebtext@gmail.com
+And contact us at the following email address: openwebtext at gmail.com
 
 **Take down:** We will comply to legitimate requests by removing the affected sources from the next release of the corpus.
