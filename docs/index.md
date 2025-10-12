@@ -6,7 +6,7 @@ layout: home
 
 **Summary:**
 
-Today we're announcing the release of a beta version of Open WebText -- an open source effort to reproduce OpenAI's WebText dataset, as detailed [here](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf). This distribution was created by Aaron Gokaslan and Vanya Cohen of Brown University. The following post outlines the steps taken to reproduce the dataset, and provides information for those seeking to contribute to its further development.
+Today we're announcing the release of a beta version of Open WebText -- an open source effort to reproduce OpenAI's WebText dataset, as detailed [here](https://cdn.openai.com/better-language-models/language-models.pdf). This distribution was created by Aaron Gokaslan and Vanya Cohen of Brown University. The following post outlines the steps taken to reproduce the dataset, and provides information for those seeking to contribute to its further development.
 
 **Open WebText:**
 
